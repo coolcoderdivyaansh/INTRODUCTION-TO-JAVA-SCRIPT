@@ -1,4 +1,4 @@
-var a=10 , b=3
+var a=15 , b=17
 
 console.log(a+b); 
 console.log(a-b); 
